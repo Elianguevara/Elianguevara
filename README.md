@@ -1,6 +1,6 @@
 # Hi there! I'm Elian Guevara 👋
 
-### I'm a software developer with experience in [java, kotlin, jetpack compose, react].
+### I'm a software developer with experience in java, kotlin, jetpack compose, react.
 
 ---
 
