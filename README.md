@@ -13,7 +13,7 @@ Currently, I am deep-diving into the **Web3 ecosystem**, mastering **Solidity** 
 * **Backend:** Java (Spring Boot), Kotlin, Microservices, REST APIs.
 * **Frontend:** React, JavaScript (ES6+), HTML5/CSS3.
 * **Web3 & Blockchain:** Solidity, Ethereum, Ethers.js, Smart Contracts development.
-* **Tools & Databases:** Git, Docker, PostgreSQL, MySQL.
+* **Tools & Databases:** Git, Docker, PostgreSQL, Redis.
 
 ---
 
@@ -35,7 +35,7 @@ I am committed to becoming a professional **Ethereum Developer** by focusing on:
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
-  <img src="https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
 ---
@@ -43,10 +43,10 @@ I am committed to becoming a professional **Ethereum Developer** by focusing on:
 ### 📫 Connect with me
 
 * **Email:** [elian.guevara689@gmail.com](mailto:elian.guevara689@gmail.com)
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) ---
+* **LinkedIn:** [linkedin.com/in/elian-guevara](https://linkedin.com/in/elian-guevara) ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Elianguevara&show_icons=true&theme=radical" alt="Elian Guevara's GitHub Stats" />
 </p>
