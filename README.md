@@ -1,28 +1,52 @@
 # Hi there! I'm Elian Guevara 👋
 
-### I'm a software developer with experience in java, kotlin, jetpack compose, react.
+### Full Stack Developer | Java (Spring Boot) & React | Web3 & Ethereum Explorer
+
+I am a Software Developer focused on building robust, scalable, and secure applications. My professional core is built on **Java**, specializing in **Spring Boot** for high-performance backend services. On the frontend, I create modern and responsive interfaces using **React**.
+
+Currently, I am deep-diving into the **Web3 ecosystem**, mastering **Solidity** to bridge the gap between enterprise-grade software and decentralized technologies.
 
 ---
 
-### 🚀 About Me
+### 🚀 Professional Skills
 
-I am passionate about building robust and scalable solutions. My professional background has allowed me to work with technologies like **Java** and **Kotlin** for building strong applications, and with **Jetpack Compose** and **React** to create modern and responsive user interfaces.
-
-Currently, I'm exploring the world of **Web3** and the **Ethereum** ecosystem. This is an incredibly exciting space, and I'm focused on understanding how blockchain technology can transform how we interact with applications and data.
-
-### 🎯 My Web3 Goals
-
-My main goal is to become a professional Ethereum developer. I am committed to:
-
-* Learning the fundamentals of smart contract programming.
-* Mastering languages like **Solidity**.
-* Contributing to open-source projects within the Web3 ecosystem.
-* Building functional and secure decentralized applications (dApps).
-
-I'm building my portfolio here on GitHub to document my progress and projects. Feel free to follow my journey!
+* **Backend:** Java (Spring Boot), Kotlin, Microservices, REST APIs.
+* **Frontend:** React, JavaScript (ES6+), HTML5/CSS3.
+* **Web3 & Blockchain:** Solidity, Ethereum, Ethers.js, Smart Contracts development.
+* **Tools & Databases:** Git, Docker, PostgreSQL, MySQL.
 
 ---
 
-### 📫 Contact Me
+### 🎯 My Web3 Journey & Goals
 
-* **Email:** elian.guevara689@gmail.com
+I am committed to becoming a professional **Ethereum Developer** by focusing on:
+* **Smart Contract Development:** Writing secure and gas-efficient code with **Solidity**.
+* **DApp Architecture:** Integrating Spring Boot backends and React frontends with the Ethereum blockchain.
+* **Security & Optimization:** Learning best practices for auditing and optimizing smart contracts.
+* **Open Source:** Actively contributing to the Web3 community and documenting my progress.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+* **Email:** [elian.guevara689@gmail.com](mailto:elian.guevara689@gmail.com)
+* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) ---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+</p>
