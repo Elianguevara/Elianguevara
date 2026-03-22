@@ -1,15 +1,19 @@
 # Hi there! I'm Elian Guevara 👋
-
 ### Full Stack Developer | Java (Spring Boot) & React | Web3 & Ethereum Explorer
-
 I am a Software Developer focused on building robust, scalable, and secure applications. My professional core is built on **Java**, specializing in **Spring Boot** for high-performance backend services. On the frontend, I create modern and responsive interfaces using **React**.
-
 Currently, I am deep-diving into the **Web3 ecosystem**, mastering **Solidity** to bridge the gap between enterprise-grade software and decentralized technologies.
 
 ---
 
-### 🚀 Professional Skills
+### 🎓 Education
 
+* **Tecnicatura Superior en Desarrollo de Software** - IES 9-021 Instituto Tecnológico Junín, Mendoza, Argentina *(Graduated)*
+* **Diplomatura en Blockchain y Finanzas Digitales** - Universidad Tecnológica Nacional (UTN BA) *(In Progress)*
+* **Ethereum Developer Pack** - Kipu *(Completed)* - Comprehensive training covering blockchain fundamentals, Solidity development, and Smart Contract security
+
+---
+
+### 🚀 Professional Skills
 * **Backend:** Java (Spring Boot), Kotlin, Microservices, REST APIs.
 * **Frontend:** React, JavaScript (ES6+), HTML5/CSS3.
 * **Web3 & Blockchain:** Solidity, Ethereum, Ethers.js, Smart Contracts development.
@@ -18,7 +22,6 @@ Currently, I am deep-diving into the **Web3 ecosystem**, mastering **Solidity** 
 ---
 
 ### 🎯 My Web3 Journey & Goals
-
 I am committed to becoming a professional **Ethereum Developer** by focusing on:
 * **Smart Contract Development:** Writing secure and gas-efficient code with **Solidity**.
 * **DApp Architecture:** Integrating Spring Boot backends and React frontends with the Ethereum blockchain.
@@ -28,7 +31,6 @@ I am committed to becoming a professional **Ethereum Developer** by focusing on:
 ---
 
 ### 🛠️ Tech Stack & Tools
-
 <p align="left">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
@@ -41,12 +43,12 @@ I am committed to becoming a professional **Ethereum Developer** by focusing on:
 ---
 
 ### 📫 Connect with me
-
 * **Email:** [elian.guevara689@gmail.com](mailto:elian.guevara689@gmail.com)
-* **LinkedIn:** [linkedin.com/in/elian-guevara](https://linkedin.com/in/elian-guevara) ---
+* **LinkedIn:** [linkedin.com/in/elian-guevara](https://linkedin.com/in/elian-guevara)
+
+---
 
 ### 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Elianguevara&show_icons=true&theme=radical" alt="Elian Guevara's GitHub Stats" />
 </p>
