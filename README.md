@@ -61,7 +61,7 @@ I am committed to building 100% professional, production-ready software by focus
 ### 📫 Connect with me
 
 * **Email:** [elian.guevara689@gmail.com](mailto:elian.guevara689@gmail.com)
-* **LinkedIn:** [linkedin.com/in/elian-guevara](https://linkedin.com/in/elian-guevara)
+* **LinkedIn:** [www.linkedin.com/in/victor-elian-guevara-72829a285](https://www.linkedin.com/in/victor-elian-guevara-72829a285)
 
 ---
 
